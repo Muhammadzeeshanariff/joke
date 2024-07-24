@@ -5,6 +5,7 @@ const NewCard = () => {
     <div>
       <input type="text" />
       <h1>Hi</h1>
+      <button>submit</button>
     </div>
   );
 };
