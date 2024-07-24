@@ -1,9 +1,12 @@
-import React from 'react'
+import React from "react";
 
 const NewCard = () => {
   return (
-    <div>NewCard</div>
-  )
-}
+    <div>
+      <input type="text" />
+      <h1>Hi</h1>
+    </div>
+  );
+};
 
-export default NewCard
+export default NewCard;
