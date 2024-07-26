@@ -2,7 +2,7 @@ import React from "react";
 
 const JokeList = () => {
   return (
-    <div>
+    <div className="jokeorder">
       <ol>
         <li>joke 1</li>
         <li>joke 2</li>
